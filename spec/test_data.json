@@ -1,0 +1,598 @@
+[
+   {
+      "stakeholders":[
+         "Consumers",
+         "Consumer with a relevant medical condition",
+         "Consumers' Association",
+         "Physician organizations",
+         "NGOs"
+      ],
+      "stakeholder_category":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholder_categories/I20150707155619000004",
+            "label":"200. Customers"
+         }
+      ],
+      "involvement":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/involvement_types/I20160325134725156636",
+            "label":"2. low"
+         }
+      ],
+      "attitude":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/attitude_types/I20180316111754325572",
+            "label":"3. positive"
+         }
+      ],
+      "description":[
+
+      ],
+      "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholders/I20140828133758176211",
+      "label":"Consumers",
+      "impact":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/impact_types/I20160325134342284180",
+            "label":"2. medium impact"
+         }
+      ]
+   },
+   {
+      "stakeholders":[
+         "Suppliers",
+         "The organization",
+         "NGOs",
+         "Production department",
+         "Research & Development"
+      ],
+      "stakeholder_category":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholder_categories/I20150707155619000007",
+            "label":"230. Suppliers"
+         }
+      ],
+      "involvement":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/involvement_types/I20160325134614756881",
+            "label":"3. moderate"
+         }
+      ],
+      "attitude":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/attitude_types/I20180316111817496295",
+            "label":"2. neutral"
+         }
+      ],
+      "description":[
+
+      ],
+      "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholders/I20140827134345026353",
+      "label":"Suppliers",
+      "impact":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/impact_types/I20160325134342284180",
+            "label":"2. medium impact"
+         }
+      ]
+   },
+   {
+      "stakeholders":[
+         "Consumer with a relevant medical condition",
+         "Consumers' Association",
+         "Ministry of Health",
+         "Media"
+      ],
+      "stakeholder_category":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholder_categories/I20150707155619000006",
+            "label":"220. Users"
+         },
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholder_categories/I20150707155619000004",
+            "label":"200. Customers"
+         }
+      ],
+      "involvement":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/involvement_types/I20180316112710971014",
+            "label":"4. medium"
+         }
+      ],
+      "attitude":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/attitude_types/I20180316111817496295",
+            "label":"2. neutral"
+         }
+      ],
+      "description":[
+
+      ],
+      "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholders/I20140820174937733905",
+      "label":"Consumer with a relevant medical condition",
+      "impact":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/impact_types/I20160325134353130591",
+            "label":"3. high impact"
+         }
+      ]
+   },
+   {
+      "stakeholders":[
+         "Consumers' Association",
+         "Consumers",
+         "Consumer with a relevant medical condition",
+         "The organization",
+         "Ministry of Health",
+         "Legal Affairs",
+         "Media"
+      ],
+      "stakeholder_category":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholder_categories/I20150707155619000017",
+            "label":"440. Political groups"
+         }
+      ],
+      "involvement":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/involvement_types/I20160325134703069593",
+            "label":"1. very low"
+         }
+      ],
+      "attitude":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/attitude_types/I20180316111817496295",
+            "label":"2. neutral"
+         }
+      ],
+      "description":[
+
+      ],
+      "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholders/I20140820174859451019",
+      "label":"Consumers' Association",
+      "impact":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/impact_types/I20160325134331518865",
+            "label":"1. low impact"
+         }
+      ]
+   },
+   {
+      "stakeholders":[
+         "Physician organizations",
+         "Ministry of Health",
+         "Legal Affairs",
+         "Media"
+      ],
+      "stakeholder_category":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholder_categories/I20150707155619000016",
+            "label":"430. Gov. agencies/regulators"
+         },
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholder_categories/I20150707155619000019",
+            "label":"500. Communities"
+         }
+      ],
+      "involvement":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/involvement_types/I20180316112710971014",
+            "label":"4. medium"
+         }
+      ],
+      "attitude":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/attitude_types/I20180316111817496295",
+            "label":"2. neutral"
+         }
+      ],
+      "description":[
+
+      ],
+      "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholders/I20140820174745262853",
+      "label":"Physician organizations",
+      "impact":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/impact_types/I20160325134331518865",
+            "label":"1. low impact"
+         }
+      ]
+   },
+   {
+      "stakeholders":[
+         "Wholesalers and large purchasers",
+         "Consumers",
+         "Consumers' Association",
+         "Media",
+         "Marketing department"
+      ],
+      "stakeholder_category":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholder_categories/I20150707155619000005",
+            "label":"210. Vendors/subcontractors"
+         }
+      ],
+      "involvement":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/involvement_types/I20160325134614756881",
+            "label":"3. moderate"
+         }
+      ],
+      "attitude":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/attitude_types/I20180316111830117313",
+            "label":"1. negative"
+         }
+      ],
+      "description":[
+
+      ],
+      "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholders/I20140820174439596577",
+      "label":"Wholesalers and large purchasers",
+      "impact":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/impact_types/I20160325134331518865",
+            "label":"1. low impact"
+         }
+      ]
+   },
+   {
+      "stakeholders":[
+         "The organization",
+         "Consumers",
+         "Consumers' Association",
+         "Wholesalers and large purchasers",
+         "Media"
+      ],
+      "stakeholder_category":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholder_categories/I20150707155619000002",
+            "label":"120. Owners"
+         }
+      ],
+      "involvement":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/involvement_types/I20180316112729380057",
+            "label":"5. high"
+         }
+      ],
+      "attitude":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/attitude_types/I20180316111754325572",
+            "label":"3. positive"
+         }
+      ],
+      "description":[
+
+      ],
+      "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholders/I20140820175055207335",
+      "label":"The organization",
+      "impact":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/impact_types/I20160325134342284180",
+            "label":"2. medium impact"
+         }
+      ]
+   },
+   {
+      "stakeholders":[
+         "Ministry of Health",
+         "Consumers",
+         "Consumers' Association",
+         "Physician organizations",
+         "The organization",
+         "NGOs",
+         "Media"
+      ],
+      "stakeholder_category":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholder_categories/I20150707155619000015",
+            "label":"420. Government"
+         }
+      ],
+      "involvement":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/involvement_types/I20180316112710971014",
+            "label":"4. medium"
+         }
+      ],
+      "attitude":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/attitude_types/I20180316111817496295",
+            "label":"2. neutral"
+         }
+      ],
+      "description":[
+
+      ],
+      "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholders/I20140820174855001612",
+      "label":"Ministry of Health",
+      "impact":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/impact_types/I20160325134353130591",
+            "label":"3. high impact"
+         }
+      ]
+   },
+   {
+      "stakeholders":[
+         "NGOs",
+         "Consumers",
+         "Consumers' Association",
+         "Ministry of Health",
+         "Legal Affairs"
+      ],
+      "stakeholder_category":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholder_categories/I20150707155619000019",
+            "label":"500. Communities"
+         }
+      ],
+      "involvement":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/involvement_types/I20160325134725156636",
+            "label":"2. low"
+         }
+      ],
+      "attitude":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/attitude_types/I20180316111817496295",
+            "label":"2. neutral"
+         }
+      ],
+      "description":[
+
+      ],
+      "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholders/I20140820174735195575",
+      "label":"NGOs",
+      "impact":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/impact_types/I20160325134353130591",
+            "label":"3. high impact"
+         }
+      ]
+   },
+   {
+      "stakeholders":[
+         "Legal Affairs",
+         "Suppliers",
+         "The organization",
+         "Ministry of Health",
+         "Media",
+         "Marketing department"
+      ],
+      "stakeholder_category":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholder_categories/I20150707155619000001",
+            "label":"110. Senior management"
+         },
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholder_categories/I20150707155619000000",
+            "label":"100. Employees"
+         }
+      ],
+      "involvement":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/involvement_types/I20160325134614756881",
+            "label":"3. moderate"
+         }
+      ],
+      "attitude":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/attitude_types/I20180316111817496295",
+            "label":"2. neutral"
+         }
+      ],
+      "description":[
+
+      ],
+      "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholders/I20140820174521957140",
+      "label":"Legal Affairs",
+      "impact":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/impact_types/I20160325134353130591",
+            "label":"3. high impact"
+         }
+      ]
+   },
+   {
+      "stakeholders":[
+         "Media",
+         "Consumers",
+         "Consumers' Association",
+         "Ministry of Health",
+         "NGOs"
+      ],
+      "stakeholder_category":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholder_categories/I20150707155619000020",
+            "label":"510. Media / Marketing / Public Relations"
+         }
+      ],
+      "involvement":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/involvement_types/I20180316112729380057",
+            "label":"5. high"
+         }
+      ],
+      "attitude":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/attitude_types/I20180316111830117313",
+            "label":"1. negative"
+         }
+      ],
+      "description":[
+
+      ],
+      "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholders/I20140820174507712928",
+      "label":"Media",
+      "impact":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/impact_types/I20160325134353130591",
+            "label":"3. high impact"
+         }
+      ]
+   },
+   {
+      "stakeholders":[
+         "Production department",
+         "Consumers' Association",
+         "Wholesalers and large purchasers",
+         "The organization",
+         "Partner company",
+         "Research & Development"
+      ],
+      "stakeholder_category":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholder_categories/I20150707155826000002",
+            "label":"820. Project team members"
+         },
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholder_categories/I20150707155619000001",
+            "label":"110. Senior management"
+         },
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholder_categories/I20150707155619000000",
+            "label":"100. Employees"
+         }
+      ],
+      "involvement":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/involvement_types/I20160325134614756881",
+            "label":"3. moderate"
+         }
+      ],
+      "attitude":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/attitude_types/I20180316111754325572",
+            "label":"3. positive"
+         }
+      ],
+      "description":[
+
+      ],
+      "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholders/I20140820174111745551",
+      "label":"Production department",
+      "impact":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/impact_types/I20160325134342284180",
+            "label":"2. medium impact"
+         }
+      ]
+   },
+   {
+      "stakeholders":[
+         "Marketing department",
+         "Production department",
+         "Partner company",
+         "Research & Development"
+      ],
+      "stakeholder_category":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholder_categories/I20150707155619000001",
+            "label":"110. Senior management"
+         },
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholder_categories/I20150707155619000000",
+            "label":"100. Employees"
+         }
+      ],
+      "involvement":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/involvement_types/I20160325134725156636",
+            "label":"2. low"
+         }
+      ],
+      "attitude":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/attitude_types/I20180316111754325572",
+            "label":"3. positive"
+         }
+      ],
+      "description":[
+
+      ],
+      "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholders/I20140820173900786900",
+      "label":"Marketing department",
+      "impact":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/impact_types/I20160325134331518865",
+            "label":"1. low impact"
+         }
+      ]
+   },
+   {
+      "stakeholders":[
+         "Partner company",
+         "Suppliers",
+         "The organization",
+         "Marketing department",
+         "Research & Development"
+      ],
+      "stakeholder_category":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholder_categories/I20150707155619000007",
+            "label":"230. Suppliers"
+         }
+      ],
+      "involvement":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/involvement_types/I20160325134725156636",
+            "label":"2. low"
+         }
+      ],
+      "attitude":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/attitude_types/I20180316111754325572",
+            "label":"3. positive"
+         }
+      ],
+      "description":[
+
+      ],
+      "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholders/I20140718131004912510",
+      "label":"Partner company",
+      "impact":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/impact_types/I20160325134342284180",
+            "label":"2. medium impact"
+         }
+      ]
+   },
+   {
+      "stakeholders":[
+         "Research & Development",
+         "Consumers",
+         "Marketing department",
+         "Partner company"
+      ],
+      "stakeholder_category":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholder_categories/I20150707155826000002",
+            "label":"820. Project team members"
+         }
+      ],
+      "involvement":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/involvement_types/I20180316112729380057",
+            "label":"5. high"
+         }
+      ],
+      "attitude":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/attitude_types/I20180316111754325572",
+            "label":"3. positive"
+         }
+      ],
+      "description":[
+
+      ],
+      "url":"http://www3.llinxx.com:3150/stakeholderhh/stakeholders/I20140718130855300984",
+      "label":"Research & Development",
+      "impact":[
+         {
+            "url":"http://www3.llinxx.com:3150/stakeholderhh/impact_types/I20160325134342284180",
+            "label":"2. medium impact"
+         }
+      ]
+   }
+]

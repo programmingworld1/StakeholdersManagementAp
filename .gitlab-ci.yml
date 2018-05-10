@@ -1,0 +1,26 @@
+image: node:9.10.1
+
+variables:
+  HOST: "ftp://llinxx.com"
+  USERNAME: "stakeholderhh@llinxx.com"
+  PASSWORD: "zUFKRFg5m9"
+
+stages:
+- test
+- deploy
+
+Unit testing:
+  stage: test
+  script: 
+  - npm init -y
+  - npm install jasmine jsdom d3
+  - ./node_modules/.bin/jasmine
+  - rm -rf ./node_modules
+
+Deploying:
+  stage: deploy
+  script:
+    - apt-get update -qq && apt-get install -y -qq lftp 
+    - lftp -c "set ftp:ssl-allow no; open -u $USERNAME,$PASSWORD $HOST; mirror -Rnev ./ --ignore-time --parallel=10 --exclude .md --exclude-glob .git* --exclude .git/"
+  only:
+    - master
